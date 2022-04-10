@@ -1,0 +1,11 @@
+bin
+obj
+*.suo
+*.user
+/eval
+/src/packages/
+/winsw_key.snk
+/winsw_key.pfx
+/src/.vs/
+/src/Core/WinSWCore/WinSWCore.csproj.DotSettings
+/artifacts/
